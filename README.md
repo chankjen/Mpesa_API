@@ -194,3 +194,4 @@ Use a tool like Postman or a frontend form to send a POST request to `http://127
 Integrating the Mpesa Daraja API into your Django project enables you to handle mobile money payments seamlessly. By following the steps above, you can set up a payment system that enhances user experience and ensures secure transactions. With Mpesa, you can tap into a widely used payment method in Africa and grow your business.
 
 For more details, refer to the [Mpesa Daraja API Documentation](https://developer.safaricom.co.ke/docs).
+watch videos on how to navigate the project [here](https://youtu.be/opCjRG90hXs?list=PLL9VrPrscsUYrTlaDpDQp-JQ2tc-HJI2N) 
