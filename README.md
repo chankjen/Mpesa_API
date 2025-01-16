@@ -1,5 +1,5 @@
 # Mpesa_API
-PLP Academy Prcatice
+PLP Academy Practice
 
 
 # Mpesa Daraja API Integration with Django
